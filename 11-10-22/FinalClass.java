@@ -1,6 +1,6 @@
 //Final Keyword----
 //Final class-- cannot extend the final class
-package demo;
+package practical;
 
 final class FinalClass{}
 class test extends FinalClass{//can't extend final class
