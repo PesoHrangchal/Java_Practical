@@ -1,6 +1,6 @@
 package array;
 
-public class ArrayExample {
+public class ArrayEg {
 	public static void main(String args[]) {
 		//declaration
 		String[] name= {"Peso","Jacob","Atif","Baby"};
